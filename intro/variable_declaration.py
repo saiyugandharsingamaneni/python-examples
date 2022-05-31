@@ -2,6 +2,7 @@
 # Variable names are case-sensitive
 """
 print("__________________________Assign Value______________________________________________________")
+print("hello world ")
 x = 1                       # x is an integer
 print(type(x))
 x = 'hello'                 # now x is a string
