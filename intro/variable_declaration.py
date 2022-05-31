@@ -6,7 +6,7 @@ x = 1                       # x is an integer
 print(type(x))
 x = 'hello'                 # now x is a string
 print(type(x))
-x = [1, 2, 3,4]               # now x is a list
+x = [1, 2, 3, 4, 5]               # now x is a list
 print(type(x))
 x = {1: 'one', 2: 'two'}    # now x is a dict
 print(type(x))
